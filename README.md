@@ -1,5 +1,8 @@
 # AWS Lambda function on Java with Gradle for a simple Alexa Skill example
 
+
+[Article](https://medium.com/voice-tech-podcast/create-simple-amazon-alexa-skill-with-backend-on-java-fcdbac05ed14), [video](https://www.youtube.com/watch?v=5rHIHUjuNRk) 
+
 *build.gradle*
 
 ```
